@@ -11,7 +11,7 @@ Franz Kafka (1883–1924) was a German-speaking writer from Prague, known for hi
 Today, “Kafkaesque” is a word we use to describe situations that feel illogical, oppressive, and quietly terrifying — the way his stories often do.
 
 
-![Franz Kafka](/assets/image/kafka.jpg)
+![Franz Kafka](/assets/image/franz.jpg)
 
 
  The Metamorphosis
