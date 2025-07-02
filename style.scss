@@ -1,3 +1,6 @@
+---
+---
+
 @import "variables";
 
 html {
@@ -8,7 +11,7 @@ body {
   background: $white;
   font-family: $sans-font-family;
   font-weight: 400;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.66666666667;
   color: $darkGray;
   -webkit-text-size-adjust: 100%;
@@ -411,23 +414,8 @@ a[href^="#fnref:"] {
 // .masthead
 //
 
-.wrapper-masthead,
-.wrapper-footer {
-  width: 100vw;
-  margin-left: 0;
-  margin-right: 0;
-  box-sizing: border-box;
-}
-
 .wrapper-masthead {
   margin-bottom: auto;
-}
-
-.wrapper-footer {
-  margin-top: 30px;
-  border-top: 01px solid #ddd;
-  border-bottom: 01px solid #ddd;
-  background-color: $lightGray;
 }
 
 .masthead {
@@ -592,6 +580,13 @@ a.nav-menu-item:focus {
     font-size: 14px !important;
     color: $mahogany;
   }
+}
+
+.wrapper-footer {
+  margin-top: 30px;
+  border-top: 01px solid #ddd;
+  border-bottom: 01px solid #ddd;
+  background-color: $lightGray;
 }
 
 footer {
