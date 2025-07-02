@@ -1,8 +1,3 @@
----
----
-
-@import "variables";
-
 html {
   font-size: 100%;
 }
@@ -39,10 +34,11 @@ ul, ol, dl, figure,
 
 .container {
   flex: 1 0 auto;
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  width: 100vw;
+  max-width: none;
+  margin: 0;
+  padding: 0 2vw;
+  box-sizing: border-box;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -414,8 +410,12 @@ a[href^="#fnref:"] {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: auto;
+.wrapper-masthead,
+.wrapper-footer {
+  width: 100vw;
+  margin-left: 0;
+  margin-right: 0;
+  box-sizing: border-box;
 }
 
 .masthead {
