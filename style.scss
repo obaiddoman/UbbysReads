@@ -36,11 +36,10 @@ ul, ol, dl, figure,
 
 .container {
   flex: 1 0 auto;
-  width: 100vw;
-  max-width: none;
-  margin: 0;
-  padding: 0 2vw;
-  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -418,6 +417,10 @@ a[href^="#fnref:"] {
   margin-left: 0;
   margin-right: 0;
   box-sizing: border-box;
+}
+
+.wrapper-masthead {
+  margin-bottom: auto;
 }
 
 .masthead {
