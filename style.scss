@@ -423,6 +423,13 @@ a[href^="#fnref:"] {
   margin-bottom: auto;
 }
 
+.wrapper-footer {
+  margin-top: 30px;
+  border-top: 01px solid #ddd;
+  border-bottom: 01px solid #ddd;
+  background-color: $lightGray;
+}
+
 .masthead {
   display: flex;
   align-items: center;
@@ -585,13 +592,6 @@ a.nav-menu-item:focus {
     font-size: 14px !important;
     color: $mahogany;
   }
-}
-
-.wrapper-footer {
-  margin-top: 30px;
-  border-top: 01px solid #ddd;
-  border-bottom: 01px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
