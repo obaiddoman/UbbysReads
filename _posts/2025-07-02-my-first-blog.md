@@ -10,6 +10,10 @@ Franz Kafka (1883–1924) was a German-speaking writer from Prague, known for hi
 
 Today, “Kafkaesque” is a word we use to describe situations that feel illogical, oppressive, and quietly terrifying — the way his stories often do.
 
+
+![Franz Kafka](/assets/image/kafka.jpg)
+
+
  The Metamorphosis
 
 I didn’t expect to feel so much after reading The Metamorphosis. I thought it would be strange, maybe even cold — a man wakes up as a bug, people avoid him, and that’s it. But it got under my skin in a way I wasn’t ready for.
