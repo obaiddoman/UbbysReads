@@ -51,7 +51,7 @@ footer_links:
     icon: fa fa-github-square
 
   - label: "Email"
-    icon: "fas fa-envelope"
+    icon: fa fa-envelope
     url: "mailto:obaiddoman@gmail.com"
 
 footer:
