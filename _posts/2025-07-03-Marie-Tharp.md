@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soundings — The Woman Who Mapped the Ocean Floor Without Ever Seeing It
-date: 2025-07-03 12:00:00 +0300
+date: 2025-07-03 03:00:00 +0300
 categories:
   - Nonfiction Reflections
   - Women in History

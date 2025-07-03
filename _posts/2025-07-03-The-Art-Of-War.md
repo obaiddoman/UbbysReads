@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of War and the Quiet Wisdom I Didn’t Expect
-date: 2025-07-03 12:00:00 +0300
+date: 2025-07-03 03:00:00 +0300
 categories:
   - Philosophy
   - Ancient Wisdom
