@@ -43,7 +43,8 @@ navigation_links:
 footer_links:
   - title: Instagram
     url: https://www.instagram.com/_itzubby
-    icon: fab fa-instagram
+    icon: fa fa-instagram
+
 
   - title: GitHub
     url: https://github.com/obaiddoman
