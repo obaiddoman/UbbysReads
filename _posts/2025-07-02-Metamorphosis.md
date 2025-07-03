@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "The Metamorphosis and the Quiet Weight of Being Unseen"
+title: The Metamorphosis and the Quiet Weight of Being Unseen
 date: 2025-07-02 12:00:00 +0300
-categories: [Franz Kafka, The Metamorphosis, Existentialism, Classic Fiction]
+categories:
+  - Franz Kafka
+  - The Metamorphosis
+  - Existentialism
+  - Classic Fiction
+aliases:
 ---
 👤 Who Was Franz Kafka?
 
