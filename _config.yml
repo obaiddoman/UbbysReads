@@ -6,7 +6,7 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: UbbyReads
+title: "<strong>UbbyReads</strong>"
 
 # Short bio or description (displayed in the header)
 description: "read, write, sleep 😴"
@@ -41,18 +41,21 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
-
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
+  - title: Instagram
+    url: https://www.instagram.com/_itzubby
+    icon: fab fa-instagram
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/obaiddoman
     icon: fa fa-github-square
 
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:obaiddoman@gmail.com"
+
+footer:
+  links: true
+  content: "© 2025 UbbyReads — Find me on social media below."
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
