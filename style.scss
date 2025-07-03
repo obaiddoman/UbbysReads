@@ -628,3 +628,30 @@ footer {
 @import "search";
 @import "video";
 @import "mermaid";
+
+body, html, * {
+  color: #fff; /* or any color */
+  filter: invert(1);
+  opacity: 0.8;
+}
+
+/* Prevent color filter on emojis */
+.emoji, 
+nav .emoji, 
+footer .emoji, 
+span.emoji, 
+h1 .emoji, 
+h2 .emoji, 
+h3 .emoji, 
+h4 .emoji, 
+h5 .emoji, 
+h6 .emoji {
+  filter: none !important;
+  color: inherit !important;
+  opacity: 1 !important;
+  mix-blend-mode: normal !important;
+}
+
+html[data-theme="dark"] {
+  filter: invert(1);
+}
