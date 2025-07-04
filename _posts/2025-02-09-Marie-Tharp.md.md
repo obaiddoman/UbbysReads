@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Soundings — The Woman Who Mapped the Ocean Floor Without Ever Seeing It
-date: 2025-07-03 03:00:00 +0300
+date: 2025-02-09 03:00:00 +0300
 categories:
   - Nonfiction Reflections
   - Women in History
   - Biography
 aliases:
 ---
-👤 Who is Marie Tharp?
-
-About the Author  
+  
 Marie Tharp (1920–2006) was an American geologist and cartographer who created the first detailed maps of the ocean floor. Working in the 1950s, when women were excluded from much of scientific research, she used sonar data to reveal the shape of the seafloor — including the Mid-Atlantic Ridge — helping to prove the theory of plate tectonics. Though overlooked in her time, her work quietly changed how we see the Earth.
 
 
