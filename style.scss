@@ -617,22 +617,6 @@ footer {
   }
 }
 
-// ... existing imports ...
-@import "mermaid";
-
-// Add dark mode **here**, not at the top
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1e1e1e !important;
-    color: #d0d0d0 !important;
-  }
-  a {
-    color: #82aaff !important;
-  }
-  // etc...
-}
-
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "message";
