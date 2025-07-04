@@ -6,7 +6,7 @@ categories:
   - Sci-Fi 
   - Survival
   - Found-in-Translation Humor
-  - Political Reflection
+  - Political Reflections
 aliases:
 ---
 
