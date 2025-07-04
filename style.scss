@@ -3,6 +3,58 @@
 
 @import "variables";
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e !important; // softer than pure black
+    color: #d0d0d0 !important;            // soft white
+  }
+
+  a {
+    color: #82aaff !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #eeeeee !important;
+  }
+
+  .site-description,
+  .site-name,
+  .post-categories,
+  .share-post,
+  .no-comments,
+  .related-posts-heading,
+  .post-nav-label {
+    color: #bbbbbb !important;
+  }
+
+  pre,
+  code {
+    background-color: #2b2b2b !important;
+    color: #d0d0d0 !important;
+  }
+
+  blockquote {
+    background-color: #2a2a2a !important;
+    color: #bbbbbb !important;
+    border-left-color: #444 !important;
+  }
+
+  table,
+  th,
+  td {
+    background-color: #2a2a2a !important;
+    border-color: #444 !important;
+  }
+
+  hr {
+    border-color: #444 !important;
+  }
+
+  figcaption {
+    color: #999 !important;
+  }
+}
+
 html {
   font-size: 100%;
 }
