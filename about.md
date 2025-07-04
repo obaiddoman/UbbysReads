@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+I’m not an expert. I’m not a critic. I’m just a person who reads things and occasionally has feelings about them.
+This is my corner of the internet where I ramble about books and whatever else gets stuck in my brain.
+Make a drink. Or don’t. Just read something.
