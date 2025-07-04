@@ -5,7 +5,7 @@ date: 2025-03-20 03:00:00 +0300
 categories:
   - Fiction
   - Novella
-  - Tragedy
+  - Pigs
 aliases:
 ---
 
