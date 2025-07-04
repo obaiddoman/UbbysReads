@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Metamorphosis and the Quiet Weight of Being Unseen
-date: 2025-07-02 12:00:00 +0300
+date: 2025-02-07 12:00:00 +0300
 categories:
   - Franz Kafka
   - The Metamorphosis
@@ -9,7 +9,6 @@ categories:
   - Classic Fiction
 aliases:
 ---
-👤 Who Was Franz Kafka?
 
 Franz Kafka (1883–1924) was a German-speaking writer from Prague, known for his haunting, often surreal stories about alienation, anxiety, and the absurdity of modern life. Though he published only a few works in his lifetime, his unique voice and dreamlike, unsettling style left a lasting impact on world literature. He’s best known for The Metamorphosis, The Trial, and The Castle — all of which explore characters trapped in bizarre, often unexplainable realities.
 
