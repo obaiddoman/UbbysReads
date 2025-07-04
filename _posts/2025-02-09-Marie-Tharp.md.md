@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soundings — The Woman Who Mapped the Ocean Floor Without Ever Seeing It
+title: Soundings - Marie Tharp
 date: 2025-02-09 03:00:00 +0300
 categories:
   - Nonfiction Reflections

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sea Raiders
+title: The Sea Raiders - H.G. Wells
 date: 2025-05-12 03:00:00 +0300
 categories:
   - Weird Fiction 

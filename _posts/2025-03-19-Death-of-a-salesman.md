@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Death of a Salesman
+title: Death of a Salesman - Arthur Miller
 date: 2025-03-19 03:00:00 +0300
 categories:
   - Realism

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Metamorphosis and the Quiet Weight of Being Unseen
+title: The Metamorphosis - Franz Kafka
 date: 2025-02-07 12:00:00 +0300
 categories:
   - Franz Kafka

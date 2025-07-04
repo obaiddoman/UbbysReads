@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Island of Doctor Moreau
+title: The Island of Doctor Moreau - H.G. Wells
 date: 2025-05-12 03:00:00 +0300
 categories:
   - Sci-Fi 
