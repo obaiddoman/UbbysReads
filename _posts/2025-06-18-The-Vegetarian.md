@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Vegetarian - Han Kang
-date: 2025-05-15 03:00:00 +0300
+date: 2025-06-18 03:00:00 +0300
 categories:
   - Literary Fiction
   - Psychological Drama

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal Farm - George Orwell
-date: 2025-03-20 03:00:00 +0300
+date: 2025-03-25 03:00:00 +0300
 categories:
   - Fiction
   - Novella
