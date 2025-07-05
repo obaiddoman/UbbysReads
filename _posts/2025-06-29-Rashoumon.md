@@ -20,6 +20,10 @@ A friend recommended starting with _Rashōmon_ before jumping into _In a Grove_,
 
 At its heart, _Rashōmon_ raises a question about necessity — stealing, survival, the blurry line between right and wrong when you’re desperate. When life comes down to mere survival, those clear-cut laws written in books or preached in temples suddenly feel irrelevant. It’s easy to be self-righteous when your stomach’s full — and Akutagawa knows this all too well.
 
+
+“he suddenly shot his right hand from his pimple to the scruff of her neck. As he grasped her, his words all but bit into her flesh: “You won’t blame me, then, for taking your clothes. That’s what I have to do to keep from starving to death.”
+
+
 The story is set in the late Heian period, a time when social order is crumbling, and the world itself feels like it’s tipping into chaos — almost with a gothic shadow hanging over it. The protagonist, a lowly servant recently fired, sits beneath the ruined Rashōmon gate, wrestling with the stark choice of whether to cling to morality or abandon it to survive.
 
 Normally, I don’t write much about individual short stories, but this one pulled me in enough to want to explore more of Akutagawa. His writing is known for blending innovation with Japanese tradition, and even in translation, I could glimpse his mastery — the way he introduces the servant and then gently reshapes our perspective by adding unexpected details feels fresh and subtle.
