@@ -23,6 +23,16 @@ Awarded the Nobel Prize in Literature in 1990, he is celebrated for his visionar
 
 This was my first time reading Octavio Paz — and a few pages in, I already knew it wouldn’t be the last. This collection spans 65 years of his poetry, chosen and arranged to give something close to a full picture, though Paz never really feels like someone you can "get a full picture" of. He writes like he’s standing just slightly out of reach — and that’s part of the draw.
 
+> “I am a man: little do I last
+> and the night is enormous.
+> But I look up:
+> the stars write.
+> Unknowing I understand:
+> I too am written,
+> and at this very moment
+> someone spells me out.”
+
+
 It’s hard to write about poetry. Not because there’s nothing to say, but because so much of it is feeling, and once you start trying to explain feeling, it slips away. But what I can say is that the structure of his poems — physically, on the page — really added something. The shape of the poem becomes part of how it breathes. Line breaks feel like footsteps or stumbles. Silence becomes a rhythm.
 
 Even in translation, there’s movement. The language flows in a way that feels inevitable and mysterious at the same time — like you're hearing something ancient but personal. You don’t always “understand” every word, but somehow, it still makes sense. That eerie, half-lit clarity is what I loved most.
@@ -55,3 +65,18 @@ This collection felt like a good introduction. It opens a door into Paz’s worl
 > between what I keep silent and what I dream,  
 > between what I dream and what I forget:  
 > poetry.”
+
+> “Between going and staying the day wavers,
+> in love with its own transparency.”
+
+> “It’s a long and silent street. I walk in darkness and stumble and fall and rise,
+> and I walk blind, my feet trampling the silent stones and dry leaves.”
+
+> “Stone is in the water,
+> water runs over the stone.
+> Wind sings in the water,
+> water murmurs over the stone.”
+
+> “a world born when two people kiss
+> a circle is the face of the wind
+> time, pure continuous time”
