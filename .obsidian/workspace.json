@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-21-The-Martian-Way.md",
+                "file": "_posts/2025-06-29-Rashoumon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-21-The-Martian-Way"
+              "title": "2025-06-29-Rashoumon"
             }
           }
         ]
@@ -170,17 +170,24 @@
   },
   "active": "6a513554cfa7ad97",
   "lastOpenFiles": [
+    "assets/image/akutagawa.jpg",
+    "_posts/2025-06-28-The-Veldt.md",
+    "_posts/2025-06-29-Rashoumon.md",
+    "assets/image/ray.jpg",
+    "_posts/2025-06-27-The-Poems-of-Octavio-Paz.md",
+    "assets/image/paz.jpg",
+    "_posts/2025-06-21-The-Martian-Way.md",
+    "_posts/2025-03-20-Of-Mice-And-Men.md",
+    "_posts/2025-03-09-The-Martian.md",
+    "_posts/2025-03-19-Death-of-a-salesman.md",
+    "_posts/2025-03-25-Animal-Farm.md",
+    "_posts/2025-04-09-Of-The-Pearl.md",
     "_posts/2025-06-14-The-Prophet.md",
     "_posts/2025-06-18-The-Vegetarian.md",
-    "_posts/2025-06-21-The-Martian-Way.md",
     "assets/image/asimov.jpg",
     "assets/image/khalil.jpg",
     "_posts/2025-06-14-Siddhartha.md",
     "assets/image/hesse.jpg",
-    "_posts/2025-03-19-Death-of-a-salesman.md",
-    "_posts/2025-03-20-Of-Mice-And-Men.md",
-    "_posts/2025-03-25-Animal-Farm.md",
-    "_posts/2025-04-09-The-Martian.md",
     "_posts/2025-05-12-The-Island-of-Doctor-Moreau.md",
     "_posts/2025-05-12-The-Sea-Raiders.md",
     "_posts/2025-05-15-Anthem.md",
@@ -197,9 +204,7 @@
     "_posts/2025-07-03-Marie-Tharp copy.md",
     "assets/image/Sun-tzu.jpg",
     "assets/image/sun-tzu.jpg",
-    "assets/image/Marie-Tharp.jpg",
     "_posts/2025-07-03-Soundings — The Woman Who Mapped the Ocean Floor Without Ever Seeing It.md",
-    "_posts/2025-07-02-Metamorphosis.md",
-    "_posts/2025-07-03-.md"
+    "_posts/2025-07-02-Metamorphosis.md"
   ]
 }

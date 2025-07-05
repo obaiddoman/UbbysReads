@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Of Mice and Men - John Steinbeck
-date: 2025-03-20 03:00:00 +0300
+date: 2025-03-19 03:00:00 +0300
 categories:
   - Fiction
   - Novella
