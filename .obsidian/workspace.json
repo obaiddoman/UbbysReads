@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-18-The-Izu-Dancer.md",
+                "file": "_posts/2025-07-24-To-The-Lighthouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-18-The-Izu-Dancer"
+              "title": "2025-07-24-To-The-Lighthouse"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "6a513554cfa7ad97",
   "lastOpenFiles": [
-    "assets/image/kawabata.jpg",
+    "assets/image/woolf.jpg",
     "_posts/2025-07-19-Songs-of-Innocence-and-of-Experience.md",
+    "_posts/2025-07-24-To-The-Lighthouse.md",
     "_posts/2025-07-18-The-Izu-Dancer.md",
+    "assets/image/kawabata.jpg",
     "assets/image/blake.jpg",
     "_posts/2025-07-17-The-Judgment.md",
     "_posts/2025-07-17-Selected-Poems.md",
@@ -196,7 +198,6 @@
     "assets/image/camustheguest.jpg",
     "_posts/2025-06-30The-Identity.md",
     "assets/image/darwish.jpg",
-    "assets/image/darwish.jpg",
     "_posts/2025-06-30-Heart-of-Darkness.md",
     "_posts/2025-06-29-1Rashoumon.md",
     "_posts/2025-06-29-In-a-Grove.md",
@@ -204,7 +205,6 @@
     "_posts/2025-06-27-The-Poems-of-Octavio-Paz.md",
     "_posts/2025-06-21-The-Martian-Way.md",
     "_posts/2025-03-20-Of-Mice-And-Men.md",
-    "_posts/2025-03-09-The-Martian.md",
-    "_posts/2025-03-19-Death-of-a-salesman.md"
+    "_posts/2025-03-09-The-Martian.md"
   ]
 }
