@@ -12,7 +12,9 @@ aliases: []
 Raymond E. Feist (born 1945) is an American fantasy writer best known for his _Riftwar Saga_, beginning with _Magician: Apprentice_ (1982). Drawing on the traditions of high fantasy established by Tolkien yet marked by a brisk, accessible style, Feist’s work helped define the epic fantasy of the late twentieth century. His novels combine the coming-of-age narrative with expansive world-building, political intrigue, and interdimensional conflict. Over four decades, Feist has created one of the most extensive shared universes in modern fantasy, spanning multiple continents, generations, and worlds.
 
 
+
 [![Raymond E. Feist](/assets/image/Feist.jpg)](/assets/image/Feist.jpg){:.glightbox}
+
 
 
 I didn’t pick this up because I knew what it was. I just stumbled on it in a local bookstore, turned it over, read the back, and realized it was a fantasy novel. And that surprised me, because I’d never read fantasy before not once. I’d always thought of it as a genre full of elves, swords, and quests, something distant from the kind of books I usually gravitate toward. But there was something about it, the promise of another world, of magic and adventure, that made me curious enough to try. I wasn’t entirely sure what I was getting into, and in a way, that uncertainty was part of the appeal.
@@ -35,6 +37,9 @@ By the time I finished, I wasn’t ready to let it go. I wanted to pick up Magic
 It’s not perfect. It shows its age, and it’s not the most nuanced or literary writing out there. But it has heart, imagination, and a sense of wonder that feels rare and the kind of story that reminds you why fantasy exists in the first place. For a first fantasy read, it was the perfect entry point. It reminded me how powerful it can be to step into a world completely unknown, to allow yourself to be carried along by story, and to feel just a little awe at the sheer possibility of what a novel can create.
 
 In the end, Magician: Apprentice is about beginnings, beginnings of characters, of worlds, of choices, and of stories. It’s about the kind of adventure that doesn’t just take you somewhere else, but also changes the way you look at reading itself. And for that, I’m grateful I stumbled on it by accident, because it became one of those rare books that sticks with you long after the last page.
+
+
+
 >"Some love comes like the wind off the sea, while others grow slowly from the seeds of friendship and kindness."
 
 >"Father used to say that, among man’s strange undertakings, war stood clearly forth as the strangest."
