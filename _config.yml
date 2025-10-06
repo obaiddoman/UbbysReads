@@ -113,3 +113,5 @@ exclude:
 # Robots are welcome
 include:
   - robots.txt
+
+future: true
