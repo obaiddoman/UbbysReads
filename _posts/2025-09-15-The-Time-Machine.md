@@ -1,7 +1,7 @@
 ---
 layout: post
-title: " The Time Machine - H.G. Wells"
-date: 2025-05-12 03:00:00 +0300
+title: "The Time Machine - H.G. Wells"
+date: 2025-10-06 12:00:00 +0300
 categories:
   - Science Fiction
   - Sci-Fi
